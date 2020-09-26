@@ -18,6 +18,8 @@ function pressIt(){
     }
   });
 }
+
+
 $(document).ready(function(){
 
 
